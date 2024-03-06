@@ -1,0 +1,1 @@
+ D:\\flutter_learning\\i_am_rich\\.dart_tool\\flutter_build\\4ba34ec82146040dcae5468abb01065a\\native_assets.yaml: 
